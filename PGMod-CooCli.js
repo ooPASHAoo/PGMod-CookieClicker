@@ -25,7 +25,7 @@ console.log('--- start ---');
 
 // Products.prod0.logPrice();
 // Products.prod0.buy();
-Game.ObjectsById[0].bulkPrice;
+console.log('price: ', Game.ObjectsById[0].bulkPrice);
 Game.ObjectsById[0].buy();
 
 console.log('---- end ----');
